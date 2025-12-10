@@ -2,11 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 N:Prather;Christian;;;
 FN:Christian Prather
-ORG:LUCI Mobility Inc.
-ADR;TYPE=WORK:9500 W 49th Ave, Unit D-100
+ORG:Scythe Robotics
+ADR;TYPE=WORK:2120 Miller Dr
 
-Wheat Ridge, CO 80033
-TITLE:AI Robotics Engineer
+Longmont, CO 80501
+TITLE:Systems Software Engineer
 TEL;TYPE=CELL:7203947742
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
@@ -18,6 +18,6 @@ URL;TYPE=GitHub:https://github.com/Christian-Prather
 URL;TYPE=YouTube:https://youtube.com/@clemsbach/featured
 URL;TYPE=LinkedIn:https://linkedin.com/in/christian-prather-707220133/
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:Smart Robotics for Power Wheelchairs 
+NOTE:Safety Critical Engineering
 UID:EnBizCard-100007678
 END:VCARD
